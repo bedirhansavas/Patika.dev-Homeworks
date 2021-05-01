@@ -1,0 +1,30 @@
+.header {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    border-style: dotted;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+.links {
+font-size: 25px;
+color: purple;
+background-color: salmon;
+}
+ 
+.indexp {
+
+font-size: 20px;
+color: sienna;
+text-align: center;
+
+}
+
+.gallerydiv{
+    height: 275px;
+    
+}
